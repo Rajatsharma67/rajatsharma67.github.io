@@ -1,4 +1,4 @@
-## Welcome to My Rajat Sharma's Profile
+## Welcome to Rajat Sharma's Profile
 
 You can use the [editor on GitHub](https://github.com/Rajatsharma67/rajatsharma67.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
