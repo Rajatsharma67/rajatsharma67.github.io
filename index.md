@@ -9,6 +9,8 @@ I have done many certification programs through LinkedIn Learning, Google Academ
 - Tableau
 - Power BI
 - Python
+- Data Science
+- Machine Learning
 - Java
 - Digital Marketing
 - C, C++
