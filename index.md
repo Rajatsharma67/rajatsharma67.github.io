@@ -17,6 +17,7 @@ I have done many certification programs through LinkedIn Learning, Google Academ
 - Julia
 - R
 - Web Development (HTML, CSS, JavaScript, React, PHP, Django)
+- SQL
 
 You can see and collaborate in my Projects
 
